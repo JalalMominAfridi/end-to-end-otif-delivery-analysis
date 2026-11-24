@@ -41,6 +41,15 @@ OTIF measures the percentage of eligible orders delivered both on time and in fu
 - In Full: All ordered product quantities are delivered.
 - Cancelled and open orders are excluded.
 
+## Dashboard Preview
+
+### OTIF Delivery Performance Dashboard
+
+![OTIF Dashboard](OTIF_dashboard.png)
+
+### Business Insights & Recommendations
+
+![Business Insights](Business_insight.png)
 ## Key Results
 
 | KPI | Result |
