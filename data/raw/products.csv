@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price
+P001,Laptop,Computers,899
+P002,Monitor,Accessories,249
+P003,Keyboard,,49
+P004,Mouse,Accessories,25
+P005,Printer,Printers,199
+P006,Tablet,Computers,499
+P007,Headset,Accessories,79
+P008,Webcam,Accessories,59
+P009,Router,Networking,129
+P010,Hard Drive,Storage,89
+P011,USB Hub,Accessories,35
+P012,Docking Station,Accessories,149
