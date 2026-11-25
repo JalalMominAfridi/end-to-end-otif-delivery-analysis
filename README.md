@@ -120,6 +120,21 @@ Additional calculation rules:
 - Only delivered orders are included in the OTIF calculation.
 - Open and cancelled orders are excluded.
 
+
+## Power BI Dashboard
+
+The project also includes a Power BI dashboard to visualise OTIF delivery performance and explore supply chain insights.
+
+![OTIF Performance Dashboard](OTIF_dashboard.png)
+
+The dashboard provides insights into:
+- Overall OTIF performance.
+- On-Time and In-Full delivery rates.
+- Delivery performance by region.
+- Customer type performance.
+- Warehouse performance.
+- Monthly OTIF trends.
+- Product-level delivery shortages.
 ## Key Results
 
 The pipeline processed the simulated dataset and produced the following results:
